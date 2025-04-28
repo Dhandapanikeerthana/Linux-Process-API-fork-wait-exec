@@ -60,6 +60,7 @@ int main(void)
 
 
 
+![Screenshot 2025-04-28 211748](https://github.com/user-attachments/assets/7cc3e4f3-d2c4-48a7-9484-20eb1a086e61)
 
 
 
@@ -107,8 +108,7 @@ int main() {
 
 ## OUTPUT
 
-
-
+![Uploading Screenshot 2025-04-28 211842.png…]()
 
 
 
