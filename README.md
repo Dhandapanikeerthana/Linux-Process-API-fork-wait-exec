@@ -48,7 +48,7 @@ int main(void)
 ## OUTPUT
 
 
-![Screenshot 2025-04-28 211748](https://github.com/user-attachments/assets/7cc3e4f3-d2c4-48a7-9484-20eb1a086e61)
+![Screenshot 2025-04-28 224752](https://github.com/user-attachments/assets/e89ab2c3-c201-4ea8-a0ef-9c74e1b027c2)
 
 
 
@@ -80,12 +80,8 @@ int main() {
 
 
 ## OUTPUT
+![Screenshot 2025-04-28 224805](https://github.com/user-attachments/assets/bb8d0519-257f-4fc1-afa0-01525f5d1daa)
 
-
-![Screenshot 2025-04-28 211842](https://github.com/user-attachments/assets/f64288cc-5387-48b4-910e-e12392ebba72)
-
-
-![Screenshot 2025-04-28 211857](https://github.com/user-attachments/assets/44a02fe1-8291-4696-b844-e00db4820a1b)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -122,8 +118,7 @@ int main() {
 
 ## OUTPUT
 
-![Screenshot 2025-04-28 211917](https://github.com/user-attachments/assets/a5d193e5-5432-4a39-987b-803e41aabb6a)
-
+![Screenshot 2025-04-28 224820](https://github.com/user-attachments/assets/6856c9be-f6e6-4562-8bce-cb7ce0933eba)
 
 # RESULT:
 The programs are executed successfully.
