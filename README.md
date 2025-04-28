@@ -81,10 +81,10 @@ int main() {
 ## OUTPUT
 
 
+![Screenshot 2025-04-28 211842](https://github.com/user-attachments/assets/f64288cc-5387-48b4-910e-e12392ebba72)
 
-![Uploading Screenshot 2025-04-28 211842.png…]()
 
-
+![Screenshot 2025-04-28 211857](https://github.com/user-attachments/assets/44a02fe1-8291-4696-b844-e00db4820a1b)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -121,7 +121,7 @@ int main() {
 
 ## OUTPUT
 
-
+![Screenshot 2025-04-28 211917](https://github.com/user-attachments/assets/a5d193e5-5432-4a39-987b-803e41aabb6a)
 
 
 # RESULT:
